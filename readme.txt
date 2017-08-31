@@ -1,2 +1,6 @@
-Git is a version control system.
-Git is free software.
+JAVA并发下的死锁
+死锁：多线程、多进程争夺多个资源
+
+1、简单顺序死锁
+
+2、动态顺序死锁
